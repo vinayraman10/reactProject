@@ -1,12 +1,60 @@
-# React + Vite
+🛒 React + Vite — Product Management Mini Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built using React with Vite for fast development, Hot Module Replacement (HMR), and ESLint setup. It’s a simple Product Management App that allows users to add, edit, delete, and filter products by category, with data stored in Local Storage for persistence.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+➕ Add New Products
 
-## Expanding the ESLint configuration
+✏️ Edit / 🗑️ Delete Products
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📂 Category-based Filtering
+
+📱 Fully Responsive Layout
+
+💾 Data stored in Local Storage
+
+🔄 Clean & Reusable Components
+
+🛠️ Tech Stack
+
+React.js ⚛️ (with Vite)
+
+JavaScript (ES6+)
+
+CSS (Responsive Design)
+
+Local Storage API
+
+ESLint for linting rules
+
+📖 Learning Outcome
+
+This project helped me strengthen my understanding of:
+
+React state management
+
+Props & component reusability
+
+
+
+🌍 Live Production
+
+🔗 Live Demo: Coming Soon… 🚀
+
+<img width="1363" height="690" alt="image" src="https://github.com/user-attachments/assets/54834592-2015-499a-bad6-cae9aaca6fb7" />
+<img width="1365" height="673" alt="image" src="https://github.com/user-attachments/assets/198b4d17-2530-435e-8cda-d25d927d2c0e" />
+<img width="1365" height="687" alt="image" src="https://github.com/user-attachments/assets/5a7077ad-b2ac-4b7c-8fa6-04f8ece86c82" />
+<img width="1362" height="647" alt="image" src="https://github.com/user-attachments/assets/9edfae07-6d45-409e-bd09-9a4582461528" />
+<img width="1360" height="682" alt="image" src="https://github.com/user-attachments/assets/cd326250-9750-444e-a176-599412a1cab2" />
+
+
+
+
+
+
+
+
+Local Storage integration
+
+Responsive UI development with React & CSS
