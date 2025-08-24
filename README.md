@@ -16,6 +16,8 @@ This project is built using React with Vite for fast development, Hot Module Rep
 
 🔄 Clean & Reusable Components
 
+
+
 🛠️ Tech Stack
 
 React.js ⚛️ (with Vite)
@@ -28,6 +30,8 @@ Local Storage API
 
 ESLint for linting rules
 
+
+
 📖 Learning Outcome
 
 This project helped me strengthen my understanding of:
@@ -36,11 +40,18 @@ React state management
 
 Props & component reusability
 
+Local Storage integration
+
+Responsive UI development with React & CSS
+
 
 
 🌍 Live Production
 
 🔗 Live Demo: Coming Soon… 🚀
+
+
+
 
 <img width="1363" height="690" alt="image" src="https://github.com/user-attachments/assets/54834592-2015-499a-bad6-cae9aaca6fb7" />
 <img width="1365" height="673" alt="image" src="https://github.com/user-attachments/assets/198b4d17-2530-435e-8cda-d25d927d2c0e" />
@@ -55,6 +66,3 @@ Props & component reusability
 
 
 
-Local Storage integration
-
-Responsive UI development with React & CSS
